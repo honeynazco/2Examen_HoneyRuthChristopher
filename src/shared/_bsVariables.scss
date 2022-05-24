@@ -1,0 +1,12 @@
+$carousel-transition-duration: $myDuration;
+$font-size-sm: $mySize;
+
+$primary:   $myprimary;
+$secondary: $mysecondary;
+$info:      $myinfo;
+$light:     $mylight;
+$dark:      $mydark;
+
+$thumbnail-bg: $mytextcolor;
+
+@import "../bootstrap/bootstrap.scss";
